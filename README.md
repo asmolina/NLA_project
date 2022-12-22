@@ -12,8 +12,6 @@
 ### References
 <ol>
 <li> Canyi Lu, Jiashi Feng, Yudong Chen, Wei Liu, Zhouchen Lin and Shuicheng Yan, Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm, TPAMI, 2019.
-<li> Canyi Lu, Jiashi Feng, Yudong Chen, Wei Liu, Zhouchen Lin and Shuicheng Yan, Tensor Robust Principal Component Analysis: Exact Recovery of Corrupted Low-Rank Tensors via Convex Optimization, CVPR, 2016.
-
 
 
 </ol>
