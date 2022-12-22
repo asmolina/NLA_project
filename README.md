@@ -12,6 +12,9 @@
 ### References
 <ol>
 <li> Canyi Lu, Jiashi Feng, Yudong Chen, Wei Liu, Zhouchen Lin and Shuicheng Yan, Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm, TPAMI, 2019.
-
-
 </ol>
+
+
+### How to run
+`demo_trpca_image.m` to get results for the tensor, `check.m` visualize the results for given channel.
+
